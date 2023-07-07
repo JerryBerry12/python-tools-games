@@ -11,5 +11,6 @@ wikipediaQueryBot - Coming soon! A new way to search wikipedia. (Made by me.)
 ## Instructions ##
 Download or clone repo, then cd into the folder of the script you want to run. Then run `python3 script_name.py`. This HAS TO BE python3.
 
-
 In the future, an installer will be avaliable to install all of them as exe.
+## Credits ##
+There will be a README in each directory for credits and other info.

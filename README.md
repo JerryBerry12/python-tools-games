@@ -5,6 +5,8 @@ madLibsGame - Mad Libs
 
 pizzaToppingsGame - A pizzeria simulator
 
+addingGame - A game to test your adding skills. Saves score and other variables to a text file for future playing.
+
 Currently, those two are from a book, but there will soon be other things made by me.
 ## Future Items ##
 wikipediaQueryBot - Coming soon! A new way to search wikipedia. (Made by me.)

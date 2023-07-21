@@ -1,15 +1,17 @@
 ### Python Tools and Games ###
 This is a repository of tools and games in python that you can download and use.
 ## Current Items ##
-madLibsGame - Mad Libs
+madLibsGame - Mad Libs - Book
 
-pizzaToppingsGame - A pizzeria simulator
+pizzaToppingsGame - A pizzeria simulator - Book
 
-addingGame - A game to test your adding skills. Saves score and other variables to a text file for future playing.
+addingGame - A game to test your adding skills. Saves score and other variables to a text file for future playing. - Book
 
-Currently, those two are from a book, but there will soon be other things made by me.
+wikipediaQueryBot - a script that looks up stuff on wikipedia for you. - Me
+
+
 ## Future Items ##
-wikipediaQueryBot - Coming soon! A new way to search wikipedia. (Made by me.)
+multipleChoiceTrivia - a user supplied trivia game! Made by me
 ## Instructions ##
 Download or clone repo, then cd into the folder of the script you want to run. Then run `python3 script_name.py`. This HAS TO BE python3.
 

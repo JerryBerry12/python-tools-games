@@ -1,6 +1,8 @@
 # Mad Libs
 # Rick Roll goes here
 # Dun Dun Dun Dun Dun Dun 
+#My little brother is (noun) of (country)!
+#He has shown (adjective) promise since he was (noun).
 
 while True:
     noun = input('Enter a noun: ')

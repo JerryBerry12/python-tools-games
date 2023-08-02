@@ -1,14 +1,12 @@
-import wikipedia
+import wikipediaapi
+wikimod = wikipediaapi.Wikipedia('wikipediaQueryBot (https://github.com/JerryBerry12/python-tools-games/tree/master/wikipediaQueryBot)', 'en')
 
 while True:
     newstring = input('>')
     if newstring == 'exit':
         print('Bye!')
         exit()
-    try:
-        result = wikipedia.summary(newstring, auto_suggest=False, sentences=2)
-        print(result)
-    except:
-        print("We couldn't find what you searched for, please try again.")
+    itpage = wikimod.page(newstring)
+    itpage.summary()
     
 

@@ -2,3 +2,4 @@
 .gitignore
 app-dev/
 multipleChoiceTrivia/
+wikipediaQueryBot/wikipediaQueryBot.py

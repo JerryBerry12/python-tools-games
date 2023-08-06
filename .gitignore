@@ -1,7 +1,7 @@
 .DS_STORE
 .gitignore
 app-dev/
-multipleChoiceTrivia/
+multipleChoiceTrivia/multipleChoiceTrivia.py
 wikipediaQueryBot/wikipediaQueryBot.py
 project-ideas/
 madLibsGame/madLibsBeta.py

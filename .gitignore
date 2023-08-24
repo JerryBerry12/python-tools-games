@@ -5,3 +5,6 @@ multipleChoiceTrivia/multipleChoiceTrivia.py
 wikipediaQueryBot/wikipediaQueryBot.py
 project-ideas/
 madLibsGame/madLibsBeta.py
+venv/
+.replit
+replit.nix

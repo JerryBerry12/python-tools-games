@@ -8,3 +8,4 @@ madLibsGame/madLibsBeta.py
 venv/
 .replit
 replit.nix
+releases/

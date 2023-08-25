@@ -9,6 +9,9 @@ addingGame - A game to test your adding skills. Saves score and other variables 
 
 wikipediaQueryBot - a script that looks up stuff on wikipedia for you. - Me
 
+knockKnockJokes - tell this script knock-knock jokes, 
+DISCLAIMER: this script does not tell you jokes; you tell it jokes.
+Made by @JerryBerry34
 
 ## Future Items ##
 multipleChoiceTrivia - a user supplied trivia game! Made by me

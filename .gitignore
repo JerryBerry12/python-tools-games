@@ -9,3 +9,5 @@ venv/
 .replit
 replit.nix
 releases/
+poetry.lock
+pyproject.toml

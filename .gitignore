@@ -11,3 +11,4 @@ replit.nix
 releases/
 poetry.lock
 pyproject.toml
+main.py

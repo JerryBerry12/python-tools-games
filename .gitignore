@@ -12,3 +12,4 @@ releases/
 poetry.lock
 pyproject.toml
 main.py
+niceJokes/tellMeJokes.py

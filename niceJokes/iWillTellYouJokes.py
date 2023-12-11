@@ -1,4 +1,5 @@
 import random
+
 jokelist = []
 file1 = open('jokefile.txt', 'r')
 for line in file1:
